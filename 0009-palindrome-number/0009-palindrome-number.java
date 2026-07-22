@@ -4,7 +4,7 @@ class Solution {
             return false;
         }
         int rev = 0;
-        int  num= x;;
+        int  num= x;
 
         while (num!= 0) {
             rev= rev*10 + num%10;
