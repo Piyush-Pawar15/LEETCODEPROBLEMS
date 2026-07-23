@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/0258-add-digits) |
+| [2235-add-two-integers](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
