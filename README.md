@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/1929-concatenation-of-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/0001-two-sum) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Piyush-Pawar15/LEETCODEPROBLEMS/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
